@@ -20,5 +20,5 @@ Adding a dependency check plugin into the pom.xml file in the program and runnin
 6) What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
 I honestly just googled topics and any information on my assignments to better understand what was being asked of me and how I could effectively implement these requirements. My favorite thing from this class was figuring out how to install maven commands on my Linux terminal to more effectively run and clean my program.
 
-7)Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+7) Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 I might show my newly found skills of implementing a diverse amount of security types for software programs. Due to the lessons in this class, I was able to learn how to create and install user certificates, a hash function for encrypting data, and a dependency check report to review possible security violations. 
